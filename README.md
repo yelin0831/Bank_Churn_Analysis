@@ -4,14 +4,14 @@ This project focuses on analyzing and predicting customer churn for a bank. By i
 
 ---
 
-## 📊 Project Goals
+##  Project Goals
 - **Identify** the main factors influencing customer churn (e.g., balance, credit score, tenure).
 - **Develop** predictive models (e.g., logistic regression, random forest) to classify whether a customer is likely to churn.
 - **Provide** actionable insights to reduce churn and improve customer satisfaction.
 
 ---
 
-## 🧱 Dataset Info
+##  Dataset Info
 - **Rows (Records):** e.g., 10,000
 - **Columns (Features):** e.g., 15
 - **Key Features:**  
