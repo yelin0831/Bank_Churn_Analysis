@@ -23,7 +23,7 @@ This project focuses on analyzing and predicting customer churn for a bank. By i
 
 ---
 
-## 🔍 Analysis Steps
+## Analysis Steps
 1. **Data Cleaning & Preprocessing**  
    - Handle missing values, outliers, and data types  
    - Encode categorical variables (e.g., Geography, Gender)
