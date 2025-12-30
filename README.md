@@ -1,4 +1,4 @@
-# Bank Churn Analysis 🏦
+# Bank Churn Analysis 
 
 This project focuses on analyzing and predicting customer churn for a bank. By identifying key factors that lead to customer attrition, the bank can develop effective strategies to retain high-value customers.
 
@@ -52,7 +52,7 @@ This project focuses on analyzing and predicting customer churn for a bank. By i
 
 ---
 
-## 🧠 Tools & Technologies
+##  Tools & Technologies
 - **Python**: pandas, NumPy, scikit-learn, matplotlib, seaborn
 - **Jupyter Notebook / VSCode**: for development
 - **Git/GitHub**: for version control and project sharing
@@ -61,7 +61,7 @@ This project focuses on analyzing and predicting customer churn for a bank. By i
 
 ---
 
-## 🔧 Setup
+##  Setup
 
 1. **Clone the repository**:
    ```bash
